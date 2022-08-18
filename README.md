@@ -1,8 +1,5 @@
-<p><strong>## Olá, Eu sou o Brenno Melo, criador de conteúdo e aprendendo a programar!<strong><p>
-
-- 🔭  in Progress...
-- 🌱 Estudando JavaScript, HTML e CSS..
-- 😄 Pronouns: ele/dele
+<p><strong> # Olá, Eu sou o Brenno Melo, criador de conteúdo e aprendendo a programar!
+              🌱 Estudando JavaScript, HTML e CSS.. <strong><p>
 
 <div align="center">
   <a href="https://github.com/Brennomllo">
