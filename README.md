@@ -1,4 +1,4 @@
-<p><strong> ### Olá, Eu sou o Brenno Melo <strong><p>
+<p><strong> ### Olá, Eu sou Brenno Melo <strong><p>
 
 <div> 
   <a href="https://www.youtube.com/channel/UCEOdd20YFAxSnd4IdlucjTg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
@@ -20,12 +20,11 @@
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/1008459006257410079/1010233012325195916/IMG_4957.jpg?width=473&height=473">
 </div>
 
 ## Ultimos Videos 
 
-[ VIDEO TITULO - ] (https://youtube.com)<br>
 [ VIDEO TITULO - ] (https://youtube.com)<br>
 
 ##
